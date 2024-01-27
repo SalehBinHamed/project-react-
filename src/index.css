@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root {
+    --nextui-colors-primary: green;
+    --nextui-colors-secondary: purple;
+
+  }
